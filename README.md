@@ -21,7 +21,7 @@ The dashboard provides insights into sales performance, customer behavior, and p
 ---
 
 ## 📂 Dataset
-- File: `updated_ecommerce_sales_data.xlsx`  
+- File: `ecommerce_sales_data_1.xlsx`  
 - Includes:
   - Order details  
   - Customer information  
