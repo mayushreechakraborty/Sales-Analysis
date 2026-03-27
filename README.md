@@ -49,10 +49,39 @@ The dashboard provides insights into sales performance, customer behavior, and p
 
 ## 🖼️ Dashboard Preview
 
-### 📌 Main Dashboard
-![Dashboard](images/dashboard.png)
+### 📌 Dashboard
+![Dashboard](https://github.com/mayushreechakraborty/Sales-Analysis/blob/2dbb61465948df0fd1b5fd7411333a0a421daeaa/Screenshot%202026-03-27%20002542.png)
 
 
 ---
 
-## 📁 Project Structure
+
+
+## 🚀 How to Use
+1. Download the `.pbix` file  
+2. Open it using **Power BI Desktop**  
+3. Explore the interactive dashboard  
+
+---
+
+## 📌 Insights Gained
+- Identified high-performing product categories  
+- Found peak sales periods  
+- Analyzed customer buying patterns  
+- Improved understanding of revenue distribution  
+
+---
+
+## 🤝 Contribution
+Feel free to fork this repository and enhance the dashboard or dataset.
+
+---
+
+## 📬 Contact
+- Name: *Mayushree Chakraborty*  
+- Email: *mayushree2022@gmail.com*  
+
+---
+
+## ⭐ Support
+If you like this project, give it a ⭐ on GitHub!
